@@ -1,0 +1,22 @@
+/* Ellipse */
+.circle{
+    position: absolute;
+    border-radius: 90%;
+    background: #FFFFFF;
+    border: 3px solid #DBDBDB;
+    width: 250px;
+    height: 250px;
+    top: 1028px;
+}
+.circle1{
+    left: 145px;
+}
+.circle2{
+    left: 461px;
+}
+.circle3{
+    left: 777px;
+}
+.circle4{
+    left: 1093px;
+}

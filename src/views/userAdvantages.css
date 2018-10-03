@@ -1,0 +1,37 @@
+.T1{
+    /* Não perca seu lanche favorito */
+
+position: absolute;
+width: 538px;
+height: 50px;
+left: 443px;
+top: 777px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+line-height: normal;
+font-size: 36px;
+
+color: #2E2E2E;
+
+}
+.T2{
+    /* Receba notificações quando seu food truck preferido estiver próximo a vocêê contribua com outros usuários dizendo compartilhando as refeições que mais lhe agradam e descubra novos lugares e comidas diferentes, essas e outras funcionalidades! */
+
+position: absolute;
+width: 1200px;
+height: 82px;
+left: 112px;
+top: 855px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+line-height: normal;
+font-size: 20px;
+text-align: center;
+
+color: #333366;
+
+}

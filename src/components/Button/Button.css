@@ -1,0 +1,13 @@
+.button {
+  border: 1px solid #CCC;
+  padding: 5px;
+}
+
+.button-success {
+  border-color: #3EC28F;
+  background-color: #3EC28F;
+}
+
+.button-round {
+  border-radius: 20px;
+}
